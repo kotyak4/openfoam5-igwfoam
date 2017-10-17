@@ -1,0 +1,4 @@
+IGWFoam.C
+boundary/derivated/testFixedValueFvPatchFields.C
+
+EXE = $(FOAM_USER_APPBIN)/IGWFoam
