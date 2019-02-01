@@ -1,3 +1,2 @@
 SOURCE = \
-IGWFoam.C \
-boundary/derivated/testFixedValueFvPatchFields.C 
+IGWFoam.C 
